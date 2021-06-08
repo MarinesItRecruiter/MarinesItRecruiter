@@ -6,4 +6,5 @@
 
 - 🏠 Actualmente trabajo en Eficacia RH - Selección Empatica
 - 🙋‍♀️ Me considero una persona divertida y curiosa, algo que se nota en mis entrevistas! 
-- Podes encontrarme en linkedin! https://www.linkedin.com/in/marinesdiaz/
+- Podes encontrarme en linkedin! 
+- Actualmente estoy buscando Desarrolladores .NET Ssr , Cloud Engineer  y Python Ssr! 
