@@ -1,10 +1,9 @@
-HOLA SOY MARINËS 👋
+𝙃𝙊𝙇𝘼 𝙎𝙊𝙔 𝙈𝘼𝙍𝙄𝙉𝙀𝙎 👋
+
+![Copia de Firma Maru](https://user-images.githubusercontent.com/84033821/121223762-3cf37000-c85e-11eb-96e1-da49422e2689.jpg)
 
 
 
-
-Recruiter IT 🙇‍♀️ Apasionada de este rubro![Copia de Firma Maru](https://user-images.githubusercontent.com/84033821/121223484-f43bb700-c85d-11eb-9a2f-fdf30170d7ec.jpg)
-
-🏠 Actualmente trabajo en Eficacia RH - Selección Empatica
-🙋‍♀️ Me considero una persona divertida y curiosa, algo que se nota en mis entrevistas! 
-Podes encontrarme en linkedin! 
+- 🏠 Actualmente trabajo en Eficacia RH - Selección Empatica
+- 🙋‍♀️ Me considero una persona divertida y curiosa, algo que se nota en mis entrevistas! 
+- Podes encontrarme en linkedin! https://www.linkedin.com/in/marinesdiaz/
