@@ -7,9 +7,8 @@
   Sourcer & It Recruiter from Argentina 🕵️‍♀️
 </p>
 
-</p>
-<h1 align='center'>
-  Now at Randstad we are looking for a Software Architect Backend and Software Architect Frontend in Latam 📍
+<p align='center'>
+  I'm looking for a Software Architect Backend and Software Architect Frontend in Latam 📍
 </p>
 
 <p align='center'>
