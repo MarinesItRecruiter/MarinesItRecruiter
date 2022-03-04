@@ -7,8 +7,16 @@
   Sourcer & It Recruiter from Argentina 🕵️‍♀️
 </p>
 
+</p>
+<h1 align='center'>
+  Now at Randstad we are looking for a Software Architect Backend and Software Architect Frontend in Latam 📍
+</p>
 
- </p>
+<p align='center'>
+ If you are interested you can contact me at 👇
+</p>
+
+</p>
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/marinesdiaz/">
@@ -18,5 +26,3 @@
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-</p>
-
