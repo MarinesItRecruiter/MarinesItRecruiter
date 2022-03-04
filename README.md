@@ -11,7 +11,9 @@
   I'm looking for a Software Architect Backend and Software Architect Frontend in Latam 📍
 </p>
 
-<p align='center'>
+</h1>
+</p>
+<p align='center'> <b>
  If you are interested you can contact me at 👇
 </p>
 
