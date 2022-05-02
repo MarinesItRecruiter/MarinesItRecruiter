@@ -21,7 +21,7 @@ If you want to know more about me 👇
 
 </p>
 <details>
-  <summary>📃 Resume</summary>
+  <summary>📃 My Resume</summary>
 </p>
   
 ## 💻 Experience 
@@ -46,9 +46,28 @@ If you want to know more about me 👇
 
 📍 Degree in Human Resources - UCASAL 
 📆 2014 - 2019
+</p>
 
 
-  
+</p>
+<details>
+  <summary>📃 My Box of Recruiting </summary>
+</p>
 
+🔎 Hunting for:
+
+- X-Ray Google
+
+- Search for GitHub
+
+- StackOverFlow 
+
+- GreenHouse
+
+- Angelist
+
+- Hiring Room
+
+- Groups of Telegram/Discord
  
   
