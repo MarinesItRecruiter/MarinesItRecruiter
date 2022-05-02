@@ -15,7 +15,7 @@ If you want to know more about me 👇
 <a href="https://www.linkedin.com/in/marinesdiaz/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
-<a href="https://https://t.me/@marines_diaz">
+<a href="https://t.me/@marines_diaz">
 <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />        
 </a>&nbsp;&nbsp;
 
