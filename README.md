@@ -2,7 +2,7 @@
 
 ![Copia de Copia de Firma Maru](https://user-images.githubusercontent.com/84033821/166334171-27bea3f9-5d8c-4221-8c20-9883b054f335.jpg)
 
-I have 2 years of experience in IT recruitment processes. I have hunted Sr profiles through different channels from LinkedIn, GitHub, X-Ray Google and StackOverFlow.
+I have 2 years of experience in IT recruitment processes. I have hunted Sr profiles through different channels from LinkedIn, GitHub and StackOverFlow.
 It also participates in different communities providing tools to help trainees get their first job.
 
 
@@ -15,7 +15,7 @@ If you want to know more about me 👇
 <a href="https://www.linkedin.com/in/marinesdiaz/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
-<a href="https:/https://t.me/@Marines_Diaz">
+<a href="https://https://t.me/@marines_diaz">
 <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />        
 </a>&nbsp;&nbsp;
 
