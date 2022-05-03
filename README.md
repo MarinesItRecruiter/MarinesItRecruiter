@@ -26,7 +26,7 @@ I also like to help trainees get their first job. ❤️
 
 
 <h2><p align ="center">
-Connect with me and let's get social
+Connect with me 👇
 
   
 <p align="center">
