@@ -5,7 +5,7 @@
 I'm an IT Recruiter looking for the best talent in Latin America.  
 I also like to help trainees get their first job. ❤️                                                        
 
-## 💻: About me experience
+## 💻: My work eperience
 
 🕵️ **It Sourcer**\
 📆 2022 - Currently\
@@ -16,7 +16,7 @@ I also like to help trainees get their first job. ❤️
 📆 2020 - 2022\
 📍 Eficacia RH 
                          
-## 🔍: Hunting for
+## 🔍: Hunting by
 * X-Ray Google
 * Search for GitHub
 * Booleand in LinkedIn
