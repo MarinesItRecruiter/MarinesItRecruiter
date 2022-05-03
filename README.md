@@ -1,9 +1,13 @@
-# Hey Curious! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30"> 👩🏾‍💻
-</p>
+# Hey Devs! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30"> 👩🏾‍💻
 
+<img align='right' src='https://media.giphy.com/media/KqVKlSDuU7bg0eS9rh/giphy.gif' width='400"'>
+                                                                                              
 ## Who am I?
-I'm an IT Recruiter looking for the best talent in Latin America.  
-I also like to help trainees get their first job. ❤️                                                        
+* IT Recruiter from Salta - Argentina  
+* I ❤️ help trainees get their first job
+* I would like to learn programming 
+* Curious, passionate and creative 🤗
+
 
 ## 💻: My work experience
 
@@ -28,11 +32,6 @@ I also like to help trainees get their first job. ❤️
 <h2><p align ="center">
 Connect with me 👇
 
-  
 <p align="center">
 <a href="https://www.linkedin.com/in/marinesdiaz/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-  
 
- <p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
