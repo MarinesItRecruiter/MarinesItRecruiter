@@ -18,8 +18,8 @@ I also like to help trainees get their first job. ❤️
                          
 ## 🔍: Hunting by
 * X-Ray Google
-* Search for GitHub
-* Booleand in LinkedIn
+* GitHub
+* Boolean in LinkedIn
 * Groups of Telegram/Discord
 * StackOverFlow 
 * Angelist
