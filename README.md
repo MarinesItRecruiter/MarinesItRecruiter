@@ -1,73 +1,38 @@
-# Welcome, I'm Marinés <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30"> 👩🏾‍💻
-
-![Copia de Copia de Firma Maru](https://user-images.githubusercontent.com/84033821/166334171-27bea3f9-5d8c-4221-8c20-9883b054f335.jpg)
-
-I have 2 years of experience in IT recruitment processes. I have hunted Sr profiles through different channels from LinkedIn, GitHub and StackOverFlow.
-It also participates in different communities providing tools to help trainees get their first job.
-
-
-</p>
-If you want to know more about me 👇
+# Hey Curious! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30"> 👩🏾‍💻
 </p>
 
-</p>
+## Who am I?
+I'm an IT Recruiter looking for the best talent in Latin America.  
+I also like to help trainees get their first job. ❤️                                                        
 
-<a href="https://www.linkedin.com/in/marinesdiaz/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+## 💻: About me experience
 
-<a href="https://t.me/@Marines_Diaz">
-<img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />        
-</a>&nbsp;&nbsp;
+🕵️ **It Sourcer**\
+📆 2022 - Currently\
+📍 Randstad Argentina 
 
-</p>
-<details>
-  <summary>📃 My Resume</summary>
-</p>
-  
-## 💻 Experience 
-</p>
-
-
-🕵️ **It Source**\
-📆 2022 - moment\
-📍 **Randstad Argentina** 
   
 🕵️ **It Recruiter**\
-📆 2020 - 2022 \
-📍 **Eficacia RH** 
-
-</p>
-
-## 📖 Education
-</p>
-
-📍  Diploma in Gamification - UTN 
-📆 2021 - 2021
-
-📍 Degree in Human Resources - UCASAL 
-📆 2014 - 2019
-</p>
+📆 2020 - 2022\
+📍 Eficacia RH 
+                         
+## 🔍: Hunting for
+* X-Ray Google
+* Search for GitHub
+* Booleand in LinkedIn
+* Groups of Telegram/Discord
+* StackOverFlow 
+* Angelist
 
 
-</p>
-<details>
-  <summary>📃 My Box of Recruiting </summary>
-</p>
+<h2><p align ="center">
+Connect with me and let's get social
 
-🔎 Hunting for:
-
-- X-Ray Google
-
-- Search for GitHub
-
-- StackOverFlow 
-
-- GreenHouse
-
-- Angelist
-
-- Hiring Room
-
-- Groups of Telegram/Discord
- 
   
+<p align="center">
+<a href="https://www.linkedin.com/in/marinesdiaz/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+  
+
+ <p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
