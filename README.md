@@ -1,15 +1,13 @@
-# Hey Devs! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30"> 👩🏾‍💻
+<img src='https://media.giphy.com/media/zguKLLpHGfj9WnoOz0/giphy.gif' width='400"'>
 
-<img align='right' src='https://media.giphy.com/media/KqVKlSDuU7bg0eS9rh/giphy.gif' width='400"'>
-                                                                                              
 ## Who am I?
-* IT Recruiter from Salta - Argentina  
+* IT Recruiter from Argentina  
 * I ❤️ help trainees get their first job
 * I would like to learn programming 
 * Curious, passionate and creative 🤗
 
 
-## 💻: My work experience
+## 💼 : My work experience:
 
 🕵️ **It Sourcer**\
 📆 2022 - Currently\
@@ -20,7 +18,9 @@
 📆 2020 - 2022\
 📍 Eficacia RH 
                          
-## 🔍: Hunting by
+## 💻 : Sourcing by:
+<img align ="left" src='https://media.giphy.com/media/lUOA9UFYyX7AJf0pEb/giphy.gif' width='150"'>
+
 * X-Ray Google
 * GitHub
 * Boolean in LinkedIn
@@ -28,10 +28,13 @@
 * StackOverFlow 
 * Angelist
 
+## 🔎 : Now I´m looking for:
+* [iOS Developer](https://www.linkedin.com/jobs/view/3069256979) 📍 Argentina
+* [Android Developer](https://www.linkedin.com/jobs/view/3069259725) 📍 Argentina
+* If you are interested and want to know a little more, contact me 📫 madiaz@randstad.com.ar
 
-<h2><p align ="center">
-Connect with me 👇
-
-<p align="center">
-<a href="https://www.linkedin.com/in/marinesdiaz/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<h2 align"center">:heart: Where to find me <h2>
+<a href="https://www.telegram.org/in/@marines_diaz/"> <img height="30" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the badge&logo=telegram&logoColor=white">
+<a href="https://www.tiktok/in/@marinesdiaz1/"> <img height="30" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+<a href="https://www.linkedin.com/in/marinesdiaz/"> <a href="https://www.linkedin.com/in/marinesdiaz/"> <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")>
 
