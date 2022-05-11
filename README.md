@@ -6,7 +6,6 @@
 * I would like to learn programming 
 * Curious, passionate and creative 🤗
 
-
 ## 💼 : My work experience:
 
 🕵️ **It Sourcer**\
@@ -34,7 +33,7 @@
 * If you are interested and want to know a little more, contact me 📫 madiaz@randstad.com.ar
 
 <h2 align"center">:heart: Where to find me <h2>
-<a href="https://www.telegram.org/in/@marines_diaz/"> <img height="30" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the badge&logo=telegram&logoColor=white">
-<a href="https://www.tiktok/in/@marinesdiaz1/"> <img height="30" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+<a href="https://www.telegram.org/@marines_diaz/"> <img height="30" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the badge&logo=telegram&logoColor=white">
+<a href="https://www.tiktok.com/in/@marinesdiaz1/"> <img height="30" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
 <a href="https://www.linkedin.com/in/marinesdiaz/"> <a href="https://www.linkedin.com/in/marinesdiaz/"> <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")>
 
