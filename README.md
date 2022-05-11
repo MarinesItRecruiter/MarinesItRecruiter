@@ -2,10 +2,10 @@
 
 ### About me:
 * I'm a **curious IT Recruiter** from Argentina   
-* I ❤️ **helping trainees find their first job** with my employability skills 
+* I ❤️ **helping trainees to find their first job opportunity** with my employability skills 
 * **I actively participate in different IT communities** 🤗
 
->*I have a love-hate relationship with the technological field because it is complicated but I love the challenges!🚀 *
+>*I have a love-hate relationship with the technological field because it is complicated but I love challenges!🚀 *
 
 ###  Now I´m looking for:
 * [iOS Developer](https://www.linkedin.com/jobs/view/3069256979) 📍 Argentina
