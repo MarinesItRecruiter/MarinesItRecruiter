@@ -1,12 +1,19 @@
-<img src='https://media.giphy.com/media/zguKLLpHGfj9WnoOz0/giphy.gif' width='400"'>
+<p  align="center"><img src='https://media.giphy.com/media/zguKLLpHGfj9WnoOz0/giphy.gif' width="500"></p>
 
-## Who am I?
-* IT Recruiter from Argentina  
-* I ❤️ help trainees get their first job
-* I would like to learn programming 
-* Curious, passionate and creative 🤗
+### About me:
+* I'm a **curious IT Recruiter** from Argentina   
+* I ❤️ **helping trainees find their first job** with my employability skills 
+* **I actively participate in different IT communities** 🤗
 
-## 💼 : My work experience:
+>*I have a love-hate relationship with the technological field because it is complicated but I love the challenges!🚀 *
+
+###  Now I´m looking for:
+* [iOS Developer](https://www.linkedin.com/jobs/view/3069256979) 📍 Argentina
+* [Android Developer](https://www.linkedin.com/jobs/view/3069259725) 📍 Argentina
+* If you are interested and want to know a little more, contact me 📫 madiaz@randstad.com.ar
+
+<details>
+<summary><b> 💼 : My work experience </b></summary>
 
 🕵️ **It Sourcer**\
 📆 2022 - Currently\
@@ -16,8 +23,11 @@
 🕵️ **It Recruiter**\
 📆 2020 - 2022\
 📍 Eficacia RH 
-                         
-## 💻 : Sourcing by:
+  
+</details> 
+
+<details>
+<summary><b> 💻 : Sourcing by </b></summary>
 <img align ="left" src='https://media.giphy.com/media/lUOA9UFYyX7AJf0pEb/giphy.gif' width='150"'>
 
 * X-Ray Google
@@ -26,11 +36,8 @@
 * Groups of Telegram/Discord
 * StackOverFlow 
 * Angelist
-
-## 🔎 : Now I´m looking for:
-* [iOS Developer](https://www.linkedin.com/jobs/view/3069256979) 📍 Argentina
-* [Android Developer](https://www.linkedin.com/jobs/view/3069259725) 📍 Argentina
-* If you are interested and want to know a little more, contact me 📫 madiaz@randstad.com.ar
+  
+</details>  
 
 <h2 align"center">:heart: Where to find me <h2>
 <a href="https://www.telegram.org/@marines_diaz/"> <img height="30" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the badge&logo=telegram&logoColor=white">
