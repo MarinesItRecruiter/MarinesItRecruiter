@@ -28,7 +28,6 @@
 
 <details>
 <summary><b> 💻 : Sourcing by </b></summary>
-<img align ="left" src='https://media.giphy.com/media/lUOA9UFYyX7AJf0pEb/giphy.gif' width='150"'>
 
 * X-Ray Google
 * GitHub
