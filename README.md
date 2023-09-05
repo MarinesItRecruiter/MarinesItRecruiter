@@ -8,8 +8,8 @@
 >*I have a love-hate relationship with the technological field because it is complicated but I love challenges!🚀 *
 
 ###  Now I´m looking for:
-* [Android Jr](https://www.linkedin.com/jobs/view/3069256979) 📍Bs As, Argentina
-* [.Net Jr](https://www.linkedin.com/jobs/view/3069259725) 📍 Bs As, Argentina
+* [Java Ssr](https://hipotecario.hiringroom.com/jobs/get_vacancy/64e500460825c94a0aec26db) 📍Bs As, Argentina
+* [.Net Jr](https://hipotecario.hiringroom.com/jobs/get_vacancy/64871035c2c020642b9f652c) 📍 Bs As, Argentina
 * [UX/UI Ssr](https://hipotecario.hiringroom.com/jobs/get_vacancy/64f2208adc62182f25026424) 📍 Bs As, Argentina
 * If you are interested and want to know a little more, contact me 📫 madiaz@randstad.com.ar
 
