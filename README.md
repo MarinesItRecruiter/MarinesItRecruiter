@@ -8,8 +8,9 @@
 >*I have a love-hate relationship with the technological field because it is complicated but I love challenges!🚀 *
 
 ###  Now I´m looking for:
-* [iOS Developer](https://www.linkedin.com/jobs/view/3069256979) 📍 Argentina
-* [Android Developer](https://www.linkedin.com/jobs/view/3069259725) 📍 Argentina
+* [Android Jr](https://www.linkedin.com/jobs/view/3069256979) 📍Bs As, Argentina
+* [.Net Jr](https://www.linkedin.com/jobs/view/3069259725) 📍 Bs As, Argentina
+* [UX/UI Ssr]([https://www.linkedin.com/jobs/view/3069259725](https://hipotecario.hiringroom.com/jobs/get_vacancy/64f2208adc62182f25026424)) 📍 Bs As, Argentina
 * If you are interested and want to know a little more, contact me 📫 madiaz@randstad.com.ar
 
 <details>
